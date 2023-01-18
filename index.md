@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [X] Start learning
+- [ ] Get a new job
+- [ ] Realise my potential
